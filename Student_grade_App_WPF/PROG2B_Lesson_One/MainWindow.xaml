@@ -1,0 +1,22 @@
+﻿<Window x:Class="PROG2B_Lesson_One.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="PROG2B_LessonOne" Height="450" Width="600">
+    <StackPanel Margin="10">
+        <TextBlock Text="Student Grade Viewer" FontSize="20" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Select Student:"/>
+        <ComboBox x:Name="StudentSelector" Width="200" Margin="0,0,0,10"/>
+
+        <Button Content="Load Student" Click="LoadStudent_Click" Width="150" Margin="0,0,0,10"/>
+
+        <TextBlock Text="Enter Subject (e.g., Math):"/>
+        <TextBox x:Name="SubjectInput" Width="200" Margin="0,0,0,10"/>
+
+        <Button Content="Get Grade" Click="GetGrade_Click" Width="100"/>
+        <TextBlock x:Name="GradeOutput" FontWeight="Bold" Margin="0,10,0,10"/>
+
+        <Button Content="Compare GPA to Bob" Click="CompareStudents_Click" Width="200"/>
+        <TextBlock x:Name="ComparisonOutput" Margin="0,10,0,0"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PROG2B_Lesson_One/1.0.0": {
+        "runtime": {
+          "PROG2B_Lesson_One.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PROG2B_Lesson_One/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
