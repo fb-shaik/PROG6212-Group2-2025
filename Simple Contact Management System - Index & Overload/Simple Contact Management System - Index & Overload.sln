@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Simple Contact Management System - Index & Overload", "Simple Contact Management System - Index & Overload.csproj", "{2BFE260A-E8D8-400E-AC06-01CBF98F8DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BFE260A-E8D8-400E-AC06-01CBF98F8DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFE260A-E8D8-400E-AC06-01CBF98F8DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFE260A-E8D8-400E-AC06-01CBF98F8DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFE260A-E8D8-400E-AC06-01CBF98F8DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B628497C-2A7D-40A5-BA12-2A9B6ADC87D1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\bin\Debug\net8.0\Simple Contact Management System - Index & Overload.exe
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\bin\Debug\net8.0\Simple Contact Management System - Index & Overload.deps.json
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\bin\Debug\net8.0\Simple Contact Management System - Index & Overload.runtimeconfig.json
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\bin\Debug\net8.0\Simple Contact Management System - Index & Overload.dll
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\bin\Debug\net8.0\Simple Contact Management System - Index & Overload.pdb
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\Simple Contact Management System - Index & Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\Simple Contact Management System - Index & Overload.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\Simple Contact Management System - Index & Overload.AssemblyInfo.cs
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\Simple Contact Management System - Index & Overload.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\Simple Contact Management System - Index & Overload.dll
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\refint\Simple Contact Management System - Index & Overload.dll
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\Simple Contact Management System - Index & Overload.pdb
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\Simple Contact Management System - Index & Overload.genruntimeconfig.cache
+C:\Users\User\source\repos\Simple Contact Management System - Index & Overload\obj\Debug\net8.0\ref\Simple Contact Management System - Index & Overload.dll

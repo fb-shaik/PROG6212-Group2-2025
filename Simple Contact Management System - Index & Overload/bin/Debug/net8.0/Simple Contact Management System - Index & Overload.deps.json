@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Simple Contact Management System - Index & Overload/1.0.0": {
+        "runtime": {
+          "Simple Contact Management System - Index & Overload.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simple Contact Management System - Index & Overload/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
