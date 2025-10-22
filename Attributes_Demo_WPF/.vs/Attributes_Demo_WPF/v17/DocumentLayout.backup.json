@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Attributes_Demo_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AB716-ED12-4A80-AC8D-C11D626F4830}|Attributes_Demo_WPF\\Attributes_Demo_WPF.csproj|c:\\users\\user\\source\\repos\\attributes_demo_wpf\\attributes_demo_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AB716-ED12-4A80-AC8D-C11D626F4830}|Attributes_Demo_WPF\\Attributes_Demo_WPF.csproj|solutionrelative:attributes_demo_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AB716-ED12-4A80-AC8D-C11D626F4830}|Attributes_Demo_WPF\\Attributes_Demo_WPF.csproj|c:\\users\\user\\source\\repos\\attributes_demo_wpf\\attributes_demo_wpf\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2AB716-ED12-4A80-AC8D-C11D626F4830}|Attributes_Demo_WPF\\Attributes_Demo_WPF.csproj|solutionrelative:attributes_demo_wpf\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2AB716-ED12-4A80-AC8D-C11D626F4830}|Attributes_Demo_WPF\\Attributes_Demo_WPF.csproj|c:\\users\\user\\source\\repos\\attributes_demo_wpf\\attributes_demo_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9F2AB716-ED12-4A80-AC8D-C11D626F4830}|Attributes_Demo_WPF\\Attributes_Demo_WPF.csproj|solutionrelative:attributes_demo_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Attributes_Demo_WPF\\Attributes_Demo_WPF\\Student.cs",
+              "RelativeDocumentMoniker": "Attributes_Demo_WPF\\Student.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Attributes_Demo_WPF\\Attributes_Demo_WPF\\Student.cs",
+              "RelativeToolTip": "Attributes_Demo_WPF\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:21:12.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Attributes_Demo_WPF\\Attributes_Demo_WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Attributes_Demo_WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Attributes_Demo_WPF\\Attributes_Demo_WPF\\MainWindow.xaml",
+              "RelativeToolTip": "Attributes_Demo_WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-05T12:05:11.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Attributes_Demo_WPF\\Attributes_Demo_WPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Attributes_Demo_WPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Attributes_Demo_WPF\\Attributes_Demo_WPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Attributes_Demo_WPF\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwBwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T12:05:11.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

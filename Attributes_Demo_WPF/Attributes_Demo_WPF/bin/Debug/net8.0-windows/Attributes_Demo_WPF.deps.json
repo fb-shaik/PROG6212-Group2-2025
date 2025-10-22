@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Attributes_Demo_WPF/1.0.0": {
+        "runtime": {
+          "Attributes_Demo_WPF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Attributes_Demo_WPF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

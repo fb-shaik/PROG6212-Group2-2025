@@ -1,0 +1,25 @@
+﻿<Window x:Class="Attributes_Demo_WPF.MainWindow"
+                xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Student Registration" Height="300" Width="400">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <!--Name-->
+            <RowDefinition Height="Auto"/>
+            <!--Email-->
+            <RowDefinition Height="Auto"/>
+            <!--Age-->
+            <RowDefinition Height="Auto"/>
+            <!--Button-->
+            <RowDefinition Height="*"/>
+            <!--Result-->
+        </Grid.RowDefinitions>
+
+        <TextBox x:Name="NameBox" Text="Name" Margin="0 5"/>
+        <TextBox x:Name="EmailBox" Grid.Row="1" Text="Email" Margin="0 5"/>
+        <TextBox x:Name="AgeBox" Grid.Row="2" Text="Age" Margin="0 5"/>
+        <Button Grid.Row="3" Content="Register" Click="Register_Click" Margin="0 5"/>
+        <TextBlock x:Name="ResultBlock" Grid.Row="4" Foreground="Red" TextWrapping="Wrap"/>
+    </Grid>
+</Window>
